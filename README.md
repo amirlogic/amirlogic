@@ -2,16 +2,16 @@
 - 👀 I’m interested in Javascript, Python and Data Science
 
 - Javascript
+- Python
 - React
 - NextJs
 - GraphQL
 - PostgreSQL
 - Redis
-- Python
 
-I make Youtube videos on this channel: https://www.youtube.com/@datavizlab
+I make Youtube videos on this channel: https://www.youtube.com/@lowcodehub
 
-I have eBooks here: https://store.synlaunch.com
+
 
 
 
